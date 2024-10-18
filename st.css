@@ -73,7 +73,6 @@ select:focus {
     margin: 20px auto; /* تباعد في الوسط */
     padding: 10px; /* حشوة */
     border: none; /* إزالة الحدود */
-    background: transparent; /* خلفية شفافة */
     cursor: pointer; /* تغيير شكل المؤشر */
     font-size: 20px; /* حجم الخط */
     transition: transform 0.3s; /* تأثير انتقال */
