@@ -18,7 +18,7 @@ body.dark {
 .calculator {
     background: white; /* لون خلفية الآلة الحاسبة */
     border-radius: 11px; /* زوايا دائرية */
-    padding: 35px; /* حشوة داخلية */
+    padding: 30px; /* حشوة داخلية */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* ظل خفيف */
     width: 300px; /* عرض ثابت للآلة الحاسبة */
     transition: background-color 0.5s; /* تأثير انتقال لخلفية الآلة الحاسبة */
