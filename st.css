@@ -98,7 +98,9 @@ button {
 button:hover {
     background-color: #2980b9; /* لون مختلف عند تمرير الماوس فوق الزر */
 }
-
+.toggle-theme{
+    background-color: rgb(89, 163, 163);
+}
 /* تنسيق عناصر النتيجة */
 #result {
     margin-top: 20px; /* تباعد أعلى النتيجة */
